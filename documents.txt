@@ -5,20 +5,26 @@ Step 1:
 Step 2:
     clone repository from github to local system.
 
-    git clone repository_link
+    $ git clone repository_link
 
 Step 3:
     do whatever you want
 
 
+Step 3 b:
+    check the changes 
+
+    $ git status
+
+
 Step 4:
     add and commit all changes.
 
-    git add filename
-    git commit -m "your message"
+    $ git add filename
+    $ git commit -m "your message"
 
 Step 5:
     push all changes to github
 
-    git push origin main
+    $ git push origin main
 
