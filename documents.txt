@@ -1,0 +1,24 @@
+
+Step 1:
+    create a new repository on github.
+
+Step 2:
+    clone repository from github to local system.
+
+    git clone repository_link
+
+Step 3:
+    do whatever you want
+
+
+Step 4:
+    add and commit all changes.
+
+    git add filename
+    git commit -m "your message"
+
+Step 5:
+    push all changes to github
+
+    git push origin main
+
